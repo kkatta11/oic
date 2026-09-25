@@ -6,7 +6,7 @@ Language models sometimes send malformed, incomplete, or invented arguments. A b
 
 In this lab, you create two policies that deny any customer lookup whose ID does not match the `CUST-XXXX` format.
 
-Estimated Time: 10 minutes
+Estimated Time: x
 
 ### Objectives
 

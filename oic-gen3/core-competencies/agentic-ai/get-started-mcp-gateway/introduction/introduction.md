@@ -15,7 +15,7 @@ You place both servers behind a single gateway, protect them with policies, conn
 
 ![Customer support use case: an MCP client reaches CRM and third-party procurement tools through one MCP Gateway](images/demo-use-case.png " ")
 
-Estimated Workshop Time: 1 hour
+Estimated Time: 120 minutes
 
 ### Objectives
 

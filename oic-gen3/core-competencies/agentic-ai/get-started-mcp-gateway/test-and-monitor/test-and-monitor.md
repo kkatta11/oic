@@ -10,7 +10,7 @@ In this lab, you act as the agent developer. You connect MCPJam Inspector, an MC
 
 Finally, you trace each call in Oracle Integration to see which policies ran and why the gateway denied a request.
 
-Estimated Time: 15 minutes
+Estimated Time: x
 
 ### Objectives
 

@@ -4,7 +4,7 @@
 
 A gateway can only govern MCP servers it knows about. In this lab, you turn CRM integrations into MCP tools, then register two MCP servers with the project. One is the MCP server built into your project. The other is a third-party ERP procurement server. When you finish, the project lists both servers and all 19 of their tools.
 
-Estimated Time: 10 minutes
+Estimated Time: x
 
 ### Objectives
 

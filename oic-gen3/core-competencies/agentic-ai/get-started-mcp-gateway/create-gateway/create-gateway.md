@@ -6,7 +6,7 @@ The gateway ties your servers and policies together. You choose the MCP servers 
 
 In this lab, you create the `Composite Procurement GW` gateway and attach the six policies from Labs 2 and 3. Then you activate it with audit tracing.
 
-Estimated Time: 10 minutes
+Estimated Time: x
 
 ### Objectives
 

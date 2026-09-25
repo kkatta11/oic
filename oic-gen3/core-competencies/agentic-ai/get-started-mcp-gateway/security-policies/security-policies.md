@@ -9,7 +9,7 @@ Security policies govern MCP traffic itself. Oracle Integration offers two types
 
 In this lab, you follow least privilege. A customer-support agent can read vendor data but cannot approve purchase orders. Customer contact details are also masked before they reach the model.
 
-Estimated Time: 15 minutes
+Estimated Time: x
 
 ### Objectives
 
